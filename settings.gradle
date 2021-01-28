@@ -1,0 +1,3 @@
+include ':about'
+include ':app'
+rootProject.name = "Library-About"
